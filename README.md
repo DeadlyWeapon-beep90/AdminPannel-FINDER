@@ -8,4 +8,4 @@ BEST WAY TO FIND ADMIN PANELLLL
 %%%TO USE%%%%%  
 
 
------------------------------------------------------python Deadlyweapon.py -u example.com 
+-----------------------------------------------------python3 Deadlyweapon.py -u example.com 
