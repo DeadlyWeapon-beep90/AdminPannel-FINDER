@@ -25,7 +25,6 @@ print('''\033[1;34m_
 ⠀⠀⠀⣀⣴⣿⣷⣶⣤⣤⣤⣴⣾⣷⣶⣦⡀
 ⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄
 ⠚⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠂ "To kaise hain aap log" \033[37mMade with \033[91m<3\033[37m DeadlyWeapon[1;m''')
-banner()
 try:
     target = target.replace('https://', '') #Removes https://
 except:
